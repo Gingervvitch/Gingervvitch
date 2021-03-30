@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gingervvitch
+- 👀 I’m interested in design, art, automation, dogs, gaming, web design
+- 🌱 I’m currently learning azure dev ops and adobe CC
+- 💞️ I’m looking to collaborate on any front end type work, fault finding, requirements writing, organsing teams etc.
+- 📫 How to reach me message me on GitHub
